@@ -55,7 +55,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 :- [𝙱𝚁𝙾𝚃𝙷𝙴𝚁 𝚃𝙴𝙲𝙷 𝟷𝙼](https://www.youtube.com/channelgamingwithsiyam807)
+- ➪ 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 :- [Gaming With Siyam ](https://www.youtube.com/channelgamingwithsiyam807)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -63,4 +63,4 @@
 <h3><b><i> Contact me in Touch :</i></b></h3>
 <a href="https://github.com/Siyam-72"><img align="left" title="Github" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" /></a>
 <a href="https://fb.com/Oops.errors"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" /></a>
-<a href="https://www.instagram.com/mumit_islam"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
+<a href="https://www.instagram.com/siyam-807"><img align="left" title="Instagram" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" /></a>
